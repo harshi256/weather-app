@@ -20,8 +20,18 @@ A GUI-based weather application built using **Python** and **Tkinter** that fetc
 - OpenWeatherMap API
 
 ---
+##author
+Harshi Sharma 
+
+----
 
 ## ▶ How to Run
 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/weather-app-python.git
+
+
+
+
+
+
